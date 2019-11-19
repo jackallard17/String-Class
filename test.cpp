@@ -1,3 +1,5 @@
+//makefile created by Professor John Stratton (Whitman College)
+
 #include <string>
 #include <gtest/gtest.h>
 #include "myString.h"
