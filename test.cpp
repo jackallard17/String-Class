@@ -1,4 +1,4 @@
-//makefile created by Professor John Stratton (Whitman College)
+//test cases created by Professor John Stratton (Whitman College)
 
 #include <string>
 #include <gtest/gtest.h>
