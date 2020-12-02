@@ -1,2 +1,2 @@
 # String-Class
-String class in C++ programmed from scratch 
+String class implemented in C++
